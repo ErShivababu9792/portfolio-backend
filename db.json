@@ -1,0 +1,113 @@
+{
+  "profileInfo": {
+    "name": "Shivanand Vishwakarma",
+    "title": "Web Developer 💻 | Interior Designer 🏠",
+    "bio": "I turn ideas into digital reality.I m passionate about Web developments"
+  },
+  "projects": [
+    {
+      "id": "f1be",
+      "title": "interior business ecommerse website",
+      "description": "mene banaya hai ek ecommrse website",
+      "liveLink": "dsfsdf",
+      "githubLink": "sdfsdf",
+      "technologies": [
+        "sdsf"
+      ]
+    },
+    {
+      "id": "8682",
+      "title": "Calculator",
+      "description": "jghdghgfhgdf",
+      "liveLink": "dfdf",
+      "githubLink": "dfdf",
+      "technologies": [
+        "Html",
+        "Css",
+        "Java Script"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "5564",
+      "name": "HTML ",
+      "category": "Frontent"
+    },
+    {
+      "id": "fc93",
+      "name": "CSS",
+      "category": " Styling"
+    },
+    {
+      "id": "c2a1",
+      "name": "Java Script",
+      "category": "Frontend"
+    },
+    {
+      "id": "e225",
+      "name": "React Js",
+      "category": "Framework"
+    }
+  ],
+  "contactInfo": [
+    {
+      "id": "1",
+      "email": "you@example.com",
+      "phone": "1234567890",
+      "address": "Your address",
+      "linkedin": "https://linkedin.com/in/yourprofile",
+      "github": "https://github.com/yourusername"
+    }
+  ],
+  "homepageContent": [],
+  "messages": [
+    {
+      "id": "8315",
+      "name": "shivanand ",
+      "email": "vshivanand469@gmail.com",
+      "message": "kya hal hai mitra"
+    },
+    {
+      "id": "0af0",
+      "name": "Brahma sharma",
+      "email": "vshivanand469@gmail.com",
+      "message": "sdfsdfsdf"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "9743",
+      "title": "sWDWS",
+      "description": "WRER",
+      "videoUrl": "https://www.youtube.com/embed/Om0clsj-1ck"
+    },
+    {
+      "id": "8794",
+      "title": "sherian coding",
+      "description": "dff",
+      "videoUrl": "https://www.youtube.com/embed/Q50jSglX0hA"
+    }
+  ],
+  "profileAbout": {
+    "name": "Shivanand Vishwakarma",
+    "title": "Full Stack Developer | Interior Designer | Tech Enthusiast",
+    "summary": "Innovative and detail-oriented developer...",
+    "skills": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS",
+      "AutoCAD",
+      "SketchUp",
+      "Figma"
+    ],
+    "experience": "4+ years (including part-time freelance work)",
+    "location": "Bangalore, India",
+    "availability": "Open to freelance & full-time roles",
+    "cvLink": "/cv.pdf"
+  }
+}
